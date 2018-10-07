@@ -1,0 +1,10 @@
+Software
+Procesador
+Mouse
+Teclado
+Hardware
+Linux
+Windows
+Powershell
+Base de datos
+Multiprogramacion

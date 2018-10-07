@@ -1,0 +1,3 @@
+Agustin,5
+Talo,5
+Tuerca,6
